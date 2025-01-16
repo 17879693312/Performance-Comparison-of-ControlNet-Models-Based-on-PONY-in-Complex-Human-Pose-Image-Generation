@@ -1,0 +1,3 @@
+masterpiece, best quality, highres, city skyline, night.
+Negative prompt: lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,
+Steps: 30, Sampler: DPM++ 2M, Schedule type: Automatic, CFG scale: 7, Seed: 1984013602, Size: 3040x672, Model hash: 7f96a1a9ca, Model: anything-v5, Clip skip: 2, Tiled Diffusion: {"Method": "Mixture of Diffusers", "Tile tile width": 256, "Tile tile height": 256, "Tile Overlap": 132, "Tile batch size": 6}, Version: v1.10.1
